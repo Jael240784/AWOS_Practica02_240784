@@ -17,5 +17,6 @@ colaborativo utilizando Git y GitHub.</p>
 ### Tabla de Ejercicios
 
 ### Tabla de Ejercicios
-/No. /Descripción/Potenciador |Estatus/
-/1./ Declaración de Varibles/ 1 / LEn progreso /
+|No.|Descripcion|Potenciador|Estatus|
+|---|---|---|---|
+|1.|Declaracion de variable|1|En Progreso|
