@@ -115,3 +115,30 @@ console.log(`Tipo Precio: ${typeof priceProperty}`);
 console.log(`Tipo Latitud: ${typeof latGPS}`);
 console.log(`Tipo Longitud: ${typeof longGPS}`);
 console.log(`Tipo Altitud: ${typeof altGPS}`);
+
+// --- STRING ---
+
+var fullnameOwner = "Jael A";
+let nameProperty = "Hermosa Casa en la Playa de Puerto Rico";
+let descriptionProperty = "Hermosa casa de 3 recámaras, 2 baños, vista al mar, ubicada en Puerto Rico, ideal para vacaciones familiares.";
+
+var estatus = "Disponible";
+let typeProperty = "C";
+var addressProperty;
+
+/* Los tipos de datos STRING son palabras, valores cualitativos de las entidades de nuestra aplicación, 
+que no tienen un tamaño y están conformados por caracteres alfanuméricos.
+, caracteres especiales como acentos o simbolos de algun idioma */
+
+console.warn("4.- STRING (CADENA DE CARÁCTERES, PALABRAS ");
+
+console.log(`El usuario: ${fullnameOwner}, está vendiendo o rentando la propiedad: ${nameProperty}
+     que consiste en: ${descriptionProperty} actualmente está en estado: ${estatus} y es de tipo: ${typeProperty}.`);
+console.log(`Las variables declaradas son del tipo:
+     fullnameOwner : ${typeof (fullnameOwner)}
+     nameProperty : ${typeof (nameProperty)}
+     descriptionProperty : ${typeof (descriptionProperty)}
+     estatus : ${typeof (estatus)}
+     typeProperty : ${typeof (typeProperty)}
+     addressProperty : ${typeof (addressProperty)}
+     `);
