@@ -1,3 +1,4 @@
+
 // Personalización de salidas a Consola
 const bg = "linear-gradient(45deg, rgba(86, 115, 134, 1) 0%, rgba(88, 236, 207, 1) 50%)";
 
