@@ -21,3 +21,4 @@ colaborativo utilizando Git y GitHub.</p>
 |---|---|---|---|
 |1.|Declaracion de variable|1|Terminada |
 |2.|Tipos de datos|7|Terminada |
+|3.|Funcones|7|Terminad|
