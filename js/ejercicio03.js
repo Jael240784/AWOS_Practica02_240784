@@ -176,7 +176,7 @@ const recoverPassword = (email, callback) => {
 };
 
 //Invocamos la función de callback
-recoverPassword("240136@utxicotepec.edu.mx",
+recoverPassword("240784@utxicotepec.edu.mx",
     function(systemResponse){
         console.log("Respuesta del sistema: ");
         console.log(systemResponse.message);
